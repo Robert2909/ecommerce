@@ -15,3 +15,4 @@ Desarrollar una interfaz para la administración eficiente de un gimnasio, integ
 
 * Base de datos
 * Interacción humano computadora
+
